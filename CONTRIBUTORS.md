@@ -2,6 +2,10 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+#### Name: Sagar Timalsena
+ - Place: Kathmandu
+ - Bio: Software engineer
+ - GitHub: [Sagar](https://github.com/Sagar-Timalsena)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
